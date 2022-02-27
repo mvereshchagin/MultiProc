@@ -1,0 +1,15 @@
+C:\Users\stud_cdpo\source\repos\Multiproc\Multiproc\bin\Debug\net6.0\Multiproc.exe
+C:\Users\stud_cdpo\source\repos\Multiproc\Multiproc\bin\Debug\net6.0\Multiproc.deps.json
+C:\Users\stud_cdpo\source\repos\Multiproc\Multiproc\bin\Debug\net6.0\Multiproc.runtimeconfig.json
+C:\Users\stud_cdpo\source\repos\Multiproc\Multiproc\bin\Debug\net6.0\Multiproc.dll
+C:\Users\stud_cdpo\source\repos\Multiproc\Multiproc\bin\Debug\net6.0\ref\Multiproc.dll
+C:\Users\stud_cdpo\source\repos\Multiproc\Multiproc\bin\Debug\net6.0\Multiproc.pdb
+C:\Users\stud_cdpo\source\repos\Multiproc\Multiproc\obj\Debug\net6.0\Multiproc.csproj.AssemblyReference.cache
+C:\Users\stud_cdpo\source\repos\Multiproc\Multiproc\obj\Debug\net6.0\Multiproc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stud_cdpo\source\repos\Multiproc\Multiproc\obj\Debug\net6.0\Multiproc.AssemblyInfoInputs.cache
+C:\Users\stud_cdpo\source\repos\Multiproc\Multiproc\obj\Debug\net6.0\Multiproc.AssemblyInfo.cs
+C:\Users\stud_cdpo\source\repos\Multiproc\Multiproc\obj\Debug\net6.0\Multiproc.csproj.CoreCompileInputs.cache
+C:\Users\stud_cdpo\source\repos\Multiproc\Multiproc\obj\Debug\net6.0\Multiproc.dll
+C:\Users\stud_cdpo\source\repos\Multiproc\Multiproc\obj\Debug\net6.0\ref\Multiproc.dll
+C:\Users\stud_cdpo\source\repos\Multiproc\Multiproc\obj\Debug\net6.0\Multiproc.pdb
+C:\Users\stud_cdpo\source\repos\Multiproc\Multiproc\obj\Debug\net6.0\Multiproc.genruntimeconfig.cache
